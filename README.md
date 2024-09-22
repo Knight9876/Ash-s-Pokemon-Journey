@@ -1,6 +1,7 @@
 # Journey to Become the Ultimate Pokémon Master
 
-**Live Demo**: ashjourney.netlify.app
+**Live Demo**: https://ashjourney.netlify.app
+
 **Technologies Used**: React, Tailwind CSS, GSAP, FontAwesome, Cloudinary
 
 ## Description
